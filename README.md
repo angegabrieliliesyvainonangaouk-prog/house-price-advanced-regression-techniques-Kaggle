@@ -30,6 +30,8 @@ Utilisation d’Optuna pour trouver les paramètres qui généraliseront le mieu
 8)Training of the models and calculation of the metric locally, followed by a model ensemble based on the results of cross-validation and performed tests
 Entraînement des modèles et calcul de la métrique en local, suivi d’un assemblage de modèles basé sur les résultats de la cross-validation et des tests effectués
 
+#The all code is the   Untitled-1.ipynb file
+#Mon code en entier se trouve dans le fichier nommé Untitled-1.ipynb
 
 
 
